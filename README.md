@@ -1,11 +1,11 @@
-About r-ggpol
-=============
+About r-ggpol-feedstock
+=======================
+
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-ggpol-feedstock/blob/main/LICENSE.txt)
 
 Home: https://github.com/erocoar/ggpol
 
 Package license: MIT
-
-Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-ggpol-feedstock/blob/main/LICENSE.txt)
 
 Summary: A 'ggplot2' extension for implementing parliament charts and several other useful visualizations.
 
